@@ -1,0 +1,10 @@
+#root {
+  background-color: #f8f8f8;
+  transition: all;
+  font-family: vazirmatn;
+}
+*,
+after,
+before {
+  transition: 0.1s;
+}
